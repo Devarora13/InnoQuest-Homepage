@@ -207,7 +207,7 @@ main {
 .objective {
   margin-top: 50px;
   height : 850px;
-  background-image: url(obj.jpg);
+  background-image: url("obj.jpg");
   background-size: contain;
   background-attachment: fixed;
 }
